@@ -1,0 +1,700 @@
+
+/*checkout multi-step*/
+#checkout-multiple .stepwizard-step p {
+    margin-top: 10px;
+}
+#checkout-multiple .stepwizard-row {
+    display: table-row;
+}
+#checkout-multiple .stepwizard {
+    display: table;
+    width: 50%;
+    position: relative;
+}
+#checkout-multiple .stepwizard-step button[disabled] {
+    opacity: 1 !important;
+    filter: alpha(opacity=100) !important;
+}
+#checkout-multiple .stepwizard-row:before {
+    top: 16px;
+    bottom: 0;
+    position: absolute;
+    content: " ";
+    width: 100%;
+    height: 1px;
+    background-color: #ccc;
+    z-order: 0;
+}
+#checkout-multiple .stepwizard-step {
+    display: table-cell;
+    text-align: center;
+    position: relative;
+    width: 25%;
+}
+#checkout-multiple .btn-circle {
+    width: 34px;
+    height: 34px;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    line-height: 1.428571429;
+    border-radius: 50%;
+    font-size: 13px;
+    cursor: default !important;
+}
+#checkout-multiple .btn-circle.btn-black {
+   background-color: #000 !important;
+   color: #fff !important;
+}
+#checkout-multiple .btn-circle.btn-bordered {
+   background-color: #fff !important;
+   color: #000 !important;
+   border-width: 1px;
+   border-color: #ccc;
+}
+#checkout-multiple form[name="checkoutform"] > .paypalExpress{
+   display: inline-block;
+   vertical-align: top;
+   margin-right: 10px;
+   margin-bottom: 10px;
+}
+#checkout-multiple .account_login {
+   padding-top: 30px;
+}
+#checkout-multiple .account_login .loginmessage {
+   margin-bottom: 10px;
+}
+#checkout-multiple .account_login .loginmessage2 {
+   margin-bottom: 20px;
+}
+#checkout-multiple .checkout-headers {
+   font-size: 18px;
+   font-weight: 700;
+   border-bottom: 1px solid #d8d8d8;
+   padding-bottom: 10px;
+   font-family: 'Montserrat', sans-serif;
+}
+#checkout-multiple .col-md-6.col-md-push-6 {
+   padding-left: 80px;
+}
+#checkout-multiple .chkShoppingCart .row-item + .row-item {
+   border-top: 1px solid #efefef;
+   margin-top: 10px;
+   padding-top: 10px;
+}
+#checkout-multiple .chkShoppingCart .row-item .product-image {
+   float: left;
+   width:  75%;
+}
+#checkout-multiple .chkShoppingCart .row-item .product-image > a {
+   display: inline-block;
+   vertical-align: top;
+   margin-right: 10px;
+   margin-bottom: 0;
+}
+#checkout-multiple .chkShoppingCart .row-item .product-image > a ~ span {
+   display: inline-block;
+   vertical-align: top;
+   max-width: 200px;
+}
+#checkout-multiple .chkShoppingCart .row-item .product-image > a ~ span > a:hover {
+   text-decoration: underline;
+}
+#checkout-multiple .chkShoppingCart .row-item .product-info {
+   text-align: right;
+   float: right;
+   width:  25%;
+}
+#checkout-multiple .chkShoppingCart .row-item .product-info > span{
+   display: block;
+   font-weight: 700;
+}
+#checkout-multiple .bottom-shCart {
+   border-top: 1px solid #d8d8d8;
+   margin-top: 10px;
+   padding-top: 10px;
+}
+#checkout-multiple .bottom-shCart > div:not(.clearfix) {
+   text-align: right;
+}
+#checkout-multiple .bottom-shCart > div.pull-right {
+   font-weight: 700;
+}
+#checkout-multiple .bottom-shCart > div.button {
+   padding-top: 15px;
+}
+#checkout-multiple .bottom-shCart > div.button > a {
+   font-weight: 700;
+}
+#checkout-multiple .bottom-shCart > div.button > a > i.fa{
+   font-size: 18px;
+   margin-right: 7px;
+   display: inline-block;
+   vertical-align: middle;
+}
+#checkout-multiple .bottom-shCart > div.button > a > span{
+   display: inline-block;
+   vertical-align: middle;
+}
+#checkout-multiple .createNewAccount .form-group > label,
+#checkout-multiple #shipping_info .form-group > label,
+#checkout-multiple #divBillingInfo .form-group > label,
+div[name="divPaymentOption"] .ccgField > label {
+    min-width: 150px;
+    color: #000;
+}
+#checkout-multiple .createNewAccount .form-group > input.form-control,
+#checkout-multiple #shipping_info .form-group > input.form-control,
+#checkout-multiple #divBillingInfo .form-group > input.form-control,
+div[name="divPaymentOption"] .ccgField > .form-control {
+    display: inline-block;
+   width: 94%;
+   max-width: 300px;
+   vertical-align: baseline;
+}
+div[name="divPaymentOption"] .ccgField > label[for="ccv2"]{
+   max-width: 120px;
+   display: block;
+}
+div[name="divPaymentOption"] .ccgField > select.form-control {
+   max-width: 120px;
+}
+#checkout-multiple .chk-questions-section > .required {
+   display: inline-block;
+}
+#checkoutStep2 .shippingInfo > p,
+#checkoutStep3 .shippingInfo > p {
+   margin-bottom: 10px;
+}
+#checkoutStep2 div.button > a,
+#checkoutStep3 div.button > a {
+   font-weight: 700;
+}
+#checkoutStep2 div.button > a > i.fa,
+#checkoutStep3 div.button > a > i.fa{
+   font-size: 17px;
+   margin-right: 7px;
+   display: inline-block;
+   vertical-align: middle;
+}
+#checkoutStep2 > a > span{
+   display: inline-block;
+   vertical-align: middle;
+}
+#checkoutStep2 .shippingOption > .radio{
+   float: left;
+   margin-top: 5px;
+   margin-bottom: 5px;
+}
+#checkoutStep2 .shippingOption > .shipper-option-price2{
+   float: right;
+   margin-top: 5px;
+   margin-bottom: 5px;
+}
+
+/*Payments*/
+
+#divPaymentMethods > div {
+   clear: both;
+}
+
+#divPaymentMethods > div > h4 {
+   background: #f5f5f5;
+   font-size: 12px;
+   padding: 11px 15px 11px;
+   line-height: 18px;
+   font-weight: 700;
+   margin: 0 0 10px;
+}
+
+#divPaymentMethods > div > h4 > .radio {
+   padding-top: 0;
+   min-height: auto;
+}
+
+#divPaymentMethods > div > h4 > .radio > label {
+   line-height: 20px;
+   font-weight: 700;
+}
+
+
+/*paypal express Gateway*/
+
+.ppExpress > .desc-message {
+   padding-top: 5px;
+   padding-bottom: 10px;
+}
+
+.ppExpress {
+   margin-bottom: 25px;
+}
+.ppExpress > .ppe-radio {
+   margin-bottom: 0px;
+   line-height: 20px;
+   display: inline-block;
+   vertical-align: top;
+margin-top: 7px;
+}
+.ppExpress > .ppe-logo {
+   display: inline-block;
+}
+
+.ppExpress > .ppe-radio > label > input {
+   top: 50%;
+   -moz-transform: translateY(-50%);
+   -webkit-transform: translateY(-50%);
+   -ms-transform: translateY(-50%);
+   -0-transform: translateY(-50%);
+   transform: translateY(-50%);
+}
+
+.ppExpress > .ppe-radio > label > .payment-desc > img {
+   margin-right: 10px;
+}
+
+
+/* MasterPass Wallet */
+
+.checkoutMasterPass {
+   margin-bottom: 15px;
+}
+
+.checkoutMasterPass a {
+   display: inline-block;
+   font-size: 11px;
+   margin: 2px 0;
+}
+
+
+/* PayPal Advance Gateway */
+
+.ppAdv {
+   margin-bottom: 15px;
+}
+
+.ppAdv input[type="radio"] {
+   margin: 0 5px;
+}
+
+
+/* AuthentCIM Gateway */
+
+.authneticIMBlock {
+   margin-bottom: 15px;
+}
+
+
+/* FuturePay Gateway */
+
+.fpay {
+   margin-bottom: 15px;
+}
+
+.fpay .desc-message {
+   padding: 10px;
+}
+
+.fpay-radio {
+   float: left;
+   line-height: 35px;
+   margin: 0 5px;
+   padding: 5px 0 0;
+   overflow: hidden;
+}
+
+.fpay-logo {
+   float: left;
+   margin: 0 5px 0 0;
+   width: 108px;
+}
+
+.fpay .payment-desc {
+   float: left;
+   line-height: 50px;
+   margin: 0;
+}
+
+.fpay .payment-desc_v2 {
+   float: left;
+   margin: 0;
+   width: 150px;
+}
+
+.fpay-logo_v2 {
+   float: left;
+   margin: 0 5px 0 0;
+}
+
+
+/* WePay Gateway */
+
+.wpay {
+   margin-bottom: 15px;
+}
+
+.wpay .desc-message {
+   padding: 10px;
+}
+
+.wpay-radio {
+   float: left;
+   margin: 0 5px;
+   padding: 19px 0 0;
+   overflow: hidden;
+}
+
+.wpay-logo {
+   float: left;
+   margin: 0 5px 0 0;
+   padding: 0;
+}
+
+.wpay .payment-desc {
+   float: left;
+   line-height: 50px;
+   margin: 0;
+}
+
+.wpay .payment-desc_v2 {
+   float: left;
+   margin: 0;
+   width: 150px;
+}
+
+.wpay-logo_v2 {
+   float: left;
+   margin: 0 5px 0 0;
+}
+
+.wpay .payment-desc {
+   display: none;
+}
+
+
+/* Affirm Gateway */
+
+.affirm {
+   margin-bottom: 15px;
+}
+
+.affirm .desc-message {
+   padding: 0px;
+}
+
+.affirm-radio {
+   float: left;
+   line-height: 35px;
+   margin: 0 5px;
+   padding: 1px 0 0;
+   overflow: hidden;
+}
+
+.affirm-logo {
+   float: left;
+   margin: 0 5px 0 0;
+   width: 108px;
+}
+
+.affirm .payment-desc {
+   float: left;
+   line-height: 50px;
+   margin: 0;
+}
+
+
+/* Credit Cards Gateways */
+
+.cimField {
+   margin: 10px 0 0 15px;
+}
+
+.ccGateway {
+   margin-bottom: 10px;
+}
+
+.ccgField {
+   margin-top: 10px;
+   clear: both;
+   overflow: hidden;
+}
+
+.ccgField label {
+   display: block;
+   line-height: 1.8em;
+   margin-right: 10px;
+}
+
+.ccgField input.form-control {
+   display: inline-block;
+   vertical-align: middle;
+}
+
+.ccgField select {
+   float: left;
+   margin-right: 7px;
+   max-width: 100%;
+}
+
+.ccgField select.ocardexpiresmonth,
+.ccgField select.ocardexpiresyear {
+   width: 100px;
+}
+
+.ccgField img {}
+
+.ccgField .cvv2-help {
+ /*  float: left;*/
+   margin-left: 5px;
+   display: block;
+   line-height: 2.9em;
+}
+
+.ccgField.savecc-field {
+   margin-bottom: 20px;
+}
+
+
+/* Klarna Gateway */
+
+.klarnaInvoice,
+.klarnaAccount {
+   margin-bottom: 15px;
+}
+
+.klarna-invoice-radio {
+   float: left;
+   line-height: 35px;
+   margin: 0 5px;
+   padding: 8px 0 0 0;
+   overflow: hidden;
+}
+
+.klarna-invoice-logo img {
+   float: left;
+   margin: 0 5px 0 0;
+}
+
+.klarna-invoice-logo span {
+   float: left;
+   line-height: 35px;
+   display: block;
+   margin: 0;
+}
+
+#klarna_invoiceterms {
+   margin: 0 0 0 30px;
+}
+
+.klarnaField {
+   margin-bottom: 10px;
+}
+
+.klarnaField .label {
+   float: left;
+   width: 150px;
+   text-align: right;
+   line-height: 2.9em;
+   margin-right: 10px;
+}
+
+.klarna-invoice-details {
+   margin: 10px 0 10px 30px;
+}
+
+.klarna-account-radio {
+   float: left;
+   line-height: 35px;
+   margin: 0 5px;
+   padding: 8px 0 0 0;
+   overflow: hidden;
+}
+
+.klarna-account-logo img {
+   float: left;
+   margin: 0 5px 0 0;
+}
+
+.klarna-account-logo span {
+   float: left;
+   line-height: 35px;
+   display: block;
+   margin: 0;
+}
+
+.klarna-account-details {
+   margin: 10px 0 10px 30px;
+}
+
+#klarna_accountterms {
+   margin: 0 0 0 30px;
+}
+
+#afm_banner {
+   margin: 10px 0 5px 30px;
+}
+
+
+/* Link Gateway */
+
+.linkGateway {
+   margin-bottom: 15px;
+}
+
+.linkGateway .payment-desc {
+   padding: 10px;
+}
+
+
+/* eLayaway Gateway */
+
+.elayawayGateway {
+   margin-bottom: 15px;
+}
+
+.elayawayGateway .desc-message {
+   margin: 10px 0 10px 30px;
+}
+
+.divElayaway {
+   margin: 0 0 0 30px;
+}
+
+
+/* Military Star */
+
+.militaryStar {
+   margin-bottom: 15px;
+}
+
+.msField {
+   margin-top: 10px;
+}
+
+.msField label {
+   line-height: 2.9em;
+   margin-right: 10px;
+}
+
+.msField input {
+   float: left;
+}
+
+.msField img {
+   float: left;
+   padding: 8px 0 0 6px;
+}
+
+
+/* GE Money */
+
+.geMoney {
+   margin-bottom: 15px;
+}
+
+.gmField {
+   margin-top: 10px;
+}
+
+.gmField label {
+   line-height: 2.9em;
+   margin-right: 10px;
+}
+
+.gmField input {
+   float: left;
+}
+
+.gmField img {
+   float: left;
+   padding: 8px 0 0 6px;
+}
+
+
+/* Check Gateway */
+
+.chkGateway {
+   margin-bottom: 15px;
+}
+
+
+/* Custom Gateway */
+
+.customGateway .payment-type {
+   padding: 5px 0 10px;
+}
+
+.customGateway .custField {
+   padding-bottom: 20px;
+}
+
+.customGateway .custField > .cust-input {
+   display: inline-block;
+   padding-right: 10px;
+}
+
+.customGateway .custField > .cust-field {
+   display: inline-block;
+}
+
+
+/* V.ME Not Selected */
+
+#divVmeNotSelected {
+   margin-bottom: 15px;
+}
+
+
+/* Insurance Costs */
+
+.divInsurance {
+   margin-bottom: 15px;
+}
+
+.divInsurance h4 {
+   background: #EAE9E9;
+   background: rgba(234, 233, 233, 0.3);
+   background-color: #EAE9E9;
+   background-color: rgba(234, 233, 233, 0.3);
+   filter: progid: DXImageTransform.Microsoft.gradient(startColorstr=#99EAE9E9, endColorstr=#99EAE9E9);
+   -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99EAE9E9, endColorstr=#99EAE9E9)";
+   font-size: 100%;
+   padding: 5px;
+}
+
+.divInsurance .insurField {
+   margin-bottom: 10px;
+}
+
+.divInsurance .insurField input {
+   float: left;
+   margin: 3px 15px 0 0;
+   padding: 0;
+   width: 15px;
+}
+
+.divInsurance .insurField label {
+   float: left;
+   display: block;
+   width: 90%;
+}
+
+@media (max-width: 991px){
+   #checkout-multiple .col-md-6.col-md-push-6 {
+      padding-left: 15px;
+   }
+}
+@media (max-width: 767px){
+   #checkout-multiple .stepwizard {
+       width: 100%;
+   }
+}
+@media (max-width: 480px){
+   #checkout-multiple .chkShoppingCart .row-item .product-image > a ~ span {
+         max-width: 140px;
+      }
+
+   #divCheckoutButton > button {
+      font-size: 90%;
+      letter-spacing: 0;
+   }
+}

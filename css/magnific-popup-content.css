@@ -1,0 +1,518 @@
+html {
+   overflow: hidden;
+   height: 100%;
+   padding-top: 30px;
+   padding-bottom: 30px;
+}
+
+body {
+   height: 100%;
+   max-height: 100%;
+}
+
+
+/*Quick View*/
+
+body#quickView {
+   padding: 10px 40px 0;
+}
+
+body#quickView #product-details h1.page_headers {
+   padding-right: 0;
+}
+
+body#quickView #product-details .primary {
+   padding-right: 25px;
+}
+
+body#quickView #product-details #mediaBlock .prod-thumbnails {
+   margin: 20px 0;
+}
+
+body#quickView #product-details #mediaBlock .prod-thumbnails .owl-nav {
+   padding-top: 20px;
+   text-align: center;
+}
+
+body#quickView #product-details #mediaBlock .prod-thumbnails .owl-nav > div {
+   position: static;
+   display: inline-block;
+   transform: none;
+}
+
+body#quickView #product-details #mediaBlock .prod-thumbnails .owl-nav > div.owl-prev {
+   margin-right: 15px;
+}
+
+body#quickView #product-details .pricingBlock {
+   padding-top: 5px;
+}
+
+body#quickView #product-details .pricingBlock .price #price {
+   font-size: 20px;
+   font-weight: 700;
+   letter-spacing: -.02em;
+}
+
+body#quickView #product-details .availabilityInfo {
+   float: right;
+   min-width: 115px;
+   margin-top: -25px;
+   text-align: center;
+}
+
+body#quickView #product-details .availabilityInfo .product_availability {
+   margin-bottom: 5px;
+}
+
+body#quickView #product-details .availabilityInfo .product_availability h4 {
+   font-size: 12px;
+   font-weight: 700;
+   line-height: 25px;
+   display: inline-block;
+   margin: 0;
+}
+
+body#quickView #product-details .availabilityInfo .product_availability #availability {
+   display: inline-block;
+}
+
+body#quickView #product-details .availabilityInfo .freeshippingblock {
+   font-weight: 700;
+   line-height: normal;
+   display: inline-block;
+   width: 100%;
+   height: 27px;
+   padding: 5px 0 4px;
+   text-align: center;
+   letter-spacing: -.02em;
+   text-transform: uppercase;
+   border: 1px solid #000;
+}
+
+body#quickView #product-details #prodDetails {
+   clear: both;
+   padding-top: 10px;
+}
+
+body#quickView #product-details .inner-options > div span.required {
+   position: relative;
+   top: -1px;
+   left: -2px;
+   margin-right: -2px;
+}
+
+body#quickView #product-details .addToCartBlock .qtybox > label {
+   display: block;
+   margin-bottom: 7px;
+}
+
+body#quickView #product-details .addToCartBlock input[type='text'].form-control,
+body#quickView #product-details .addToCartBlock select {
+   max-width: 116px;
+}
+
+body#quickView #product-details .addToCartBlock .addcart-button button#Add {
+   line-height: 46px;
+   display: inline-block;
+   width: 100%;
+   max-width: 270px;
+   height: 48px;
+   margin: 20px 0;
+   margin-right: 36px;
+}
+
+body#quickView #product-details .addToCartBlock .addcart-button button#Add:hover {
+   color: #fff;
+   border-color: #e95144;
+   background: #e95144 none repeat scroll 0 0;
+}
+
+body#quickView #product-details .addToCartBlock .addcart-button a {
+   font-size: 11px;
+   font-weight: 700;
+   line-height: 25px;
+   text-decoration: none !important;
+   letter-spacing: .05em;
+   text-transform: uppercase;
+   color: #2d2d2d;
+   border-bottom: 1px solid #2d2d2d;
+}
+
+body#quickView #product-details .addToCartBlock .addcart-button a:hover {
+   color: #000;
+   border-color: #000;
+}
+
+
+/*Add Review Popup*/
+
+#productReviewNew {
+   padding: 0 30px;
+}
+
+#productReviewNew h1.page_headers {
+   font-family: 'Montserrat', sans-serif;
+   font-size: 18px;
+   font-weight: 700;
+   margin: 0;
+   padding: 0 0 20px;
+   letter-spacing: .1em;
+   text-transform: uppercase;
+}
+
+#productReviewNew .header h3 {
+   font-size: 18px;
+   margin: 0 0 25px;
+}
+
+#productReviewNew .form-group .new-rating .fa {
+   color: #e95144;
+}
+
+#productReviewNew .required.error {
+   color: #cc2027;
+}
+
+#productReviewNew .form-group label.control-label {
+   padding-top: 8px;
+}
+
+
+/*Add Review Popup*/
+
+#productQa {
+   padding: 0 30px;
+}
+
+#productQa h1.page_headers {
+   font-family: 'Montserrat', sans-serif;
+   font-size: 18px;
+   font-weight: 700;
+   margin: 0;
+   padding: 0 0 20px;
+   letter-spacing: .1em;
+   text-transform: uppercase;
+}
+
+#productQa .header h3 {
+   font-size: 18px;
+   margin: 0 0 25px;
+}
+
+#productQa .form-group .new-rating .fa {
+   color: #e95144;
+}
+
+#productQa .required.error {
+   color: #cc2027;
+   margin-bottom: 20px;
+}
+
+#productQa .form-group label.control-label {
+   padding-top: 8px;
+}
+
+
+/*Add To WishList Popup*/
+
+#addtoWishlist {
+   padding: 0 30px;
+}
+
+#addtoWishlist h1.page_headers {
+   font-family: 'Montserrat', sans-serif;
+   font-size: 18px;
+   font-weight: 700;
+   margin: 0;
+   padding: 0 0 20px;
+   letter-spacing: .1em;
+   text-transform: uppercase;
+}
+
+#addtoWishlist form#frmRecomend .thumbnail {
+   display: inline-block;
+}
+
+#addtoWishlist form#frmRecomend .radio {
+   margin-bottom: 20px;
+}
+
+#addtoWishlist form#frmRecomend .radio .form-control {
+   display: block;
+   max-width: 100%;
+   margin-top: 5px;
+}
+
+.addwishlist-submit-button .btn-black {
+   width: 100%;
+}
+
+
+/*Email A Friend*/
+
+#recommendAFriend {
+   padding: 0 30px;
+}
+
+#recommendAFriend h1.page_headers {
+   font-family: 'Montserrat', sans-serif;
+   font-size: 18px;
+   font-weight: 700;
+   margin: 0;
+   padding: 0 0 20px;
+   letter-spacing: .1em;
+   text-transform: uppercase;
+}
+
+#recommendAFriend .form-group .control-label {
+   text-align: left;
+}
+
+#recommendAFriend .thumbnail {
+   margin-bottom: 15px;
+}
+
+#recommendAFriend .prod-name {
+   display: block;
+   margin-bottom: 15px;
+}
+
+#recommendAFriend .form-control {
+   width: 100%;
+}
+
+#recommendAFriend .recaptchatable {
+   width: 100%;
+}
+
+
+/*The Waiting List*/
+
+#notify {
+   padding: 0 30px;
+}
+
+#notify h1.page_headers {
+   font-family: 'Montserrat', sans-serif;
+   font-size: 18px;
+   font-weight: 700;
+   margin: 0;
+   padding: 0 0 20px;
+   letter-spacing: .1em;
+   text-transform: uppercase;
+}
+
+#notify .header h3 {
+   font-size: 18px;
+   padding-bottom: 10px;
+}
+
+
+/*View Cart Quick*/
+
+body#viewCartQuick section {
+   padding: 0 30px 0;
+}
+
+body#viewCartQuick h1.page_headers {
+   font-family: 'Montserrat', sans-serif;
+   font-size: 18px;
+   font-weight: 700;
+   line-height: 20px;
+   margin: 0;
+   padding: 20px 0 10px;
+   text-transform: uppercase;
+}
+
+body#viewCartQuick .header h3 {
+   font-size: 16px;
+   font-weight: 700;
+   line-height: 20px;
+   margin: 0;
+   padding: 0 0 10px;
+   border-bottom: 1px solid #d0d0d0;
+}
+
+body#viewCartQuick .quickCartCheckout .header h3 {
+   font-size: 12px;
+   font-weight: 400;
+}
+
+body#viewCartQuick .quick-subtotal {
+   font-size: 12px;
+   font-weight: 400;
+   line-height: 20px;
+   margin: 0;
+   padding: 10px 0 20px;
+}
+
+body#viewCartQuick .quick-subtotal .price {
+   font-size: 14px;
+   font-weight: 700;
+   margin-left: 10px;
+   color: #e95144;
+}
+
+body#viewCartQuick .quick-chkbuttons button {
+   width: 100%;
+   max-width: 100%;
+   height: 42px;
+   margin-bottom: 10px;
+}
+
+body#viewCartQuick .quickCartItems {
+   padding-top: 20px;
+}
+
+body#viewCartQuick .quickCartItems .titles2 {
+   min-height: 41px;
+   padding: 10px 20px 9px 10px;
+   border-bottom: 1px solid #d0d0d0;
+   background: #f5f5f5;
+}
+
+body#viewCartQuick .quickCartItems .titles2 > div {
+   font-family: 'Montserrat', sans-serif;
+   font-size: 11px;
+   font-weight: 700;
+   float: left;
+   letter-spacing: .05em;
+   text-transform: uppercase;
+   color: #797979;
+}
+
+body#viewCartQuick .quickCartItems .titles2 > div.item-info {
+   width: 55%;
+}
+
+body#viewCartQuick .quickCartItems .titles2 > div.item-qty {
+   width: 15%;
+   text-align: center;
+}
+
+body#viewCartQuick .quickCartItems .titles2 > div.item-price {
+   width: 15%;
+   text-align: right;
+}
+
+body#viewCartQuick .quickCartItems .titles2 > div.item-total {
+   width: 15%;
+   text-align: right;
+}
+
+body#viewCartQuick .quickCartRows {
+   clear: both;
+   overflow-x: hidden;
+   max-height: 222px;
+}
+
+body#viewCartQuick .quickCartRows .row-item {
+   overflow: hidden;
+   padding: 10px 20px 10px 10px;
+}
+
+body#viewCartQuick .quickCartRows .row-item:hover {
+   background-color: #f5f5f5;
+}
+
+body#viewCartQuick .quickCartRows .row-item + .row-item {
+   border-top: 1px solid #d0d0d0;
+}
+
+body#viewCartQuick .quickCartRows .row-item > div {
+   float: left;
+}
+
+body#viewCartQuick .quickCartRows .row-item > div.item-info {
+   width: 55%;
+}
+
+body#viewCartQuick .quickCartRows .row-item > div.item-info .product-image {
+   float: left;
+}
+
+body#viewCartQuick .quickCartRows .row-item > div.item-info .product-name-options {
+   margin-left: 60px;
+}
+
+body#viewCartQuick .quickCartRows .row-item > div.item-info .product-name-options > a {
+   display: inline-block;
+   margin-bottom: 10px;
+   color: #000;
+}
+
+body#viewCartQuick .quickCartRows .row-item > div.item-info .product-name-options a.view-hide {
+   font-size: 11px;
+   font-weight: 700;
+   display: inline;
+   color: #000;
+   border-bottom: 1px solid #000;
+}
+
+body#viewCartQuick .quickCartRows .row-item > div.item-qty {
+   width: 15%;
+   text-align: center;
+}
+
+body#viewCartQuick .quickCartRows .row-item > div.item-price {
+   width: 15%;
+   text-align: right;
+}
+
+body#viewCartQuick .quickCartRows .row-item > div.item-total {
+   width: 15%;
+   text-align: right;
+}
+
+body#viewCartQuick #quickCartRelated .related-product {
+   margin-left: -10px;
+   margin-right: -10px;
+}
+
+body#viewCartQuick #quickCartRelated .prod-item {
+   width: 20%;
+   display: inline-block;
+   float: left;
+   padding: 10px;
+   margin-bottom: 10px;
+}
+
+@media (max-width: 991px) {
+   body#viewCartQuick #quickCartRelated .prod-item {
+      width: 25%;
+   }
+}
+
+@media (max-width: 800px) {
+   body#viewCartQuick #quickCartRelated .prod-item {
+      width: 33.33%;
+   }
+}
+
+@media (max-width: 767px) {
+   #productReviewNew .reviewField > input.form-control {
+      width: 90%;
+   }
+   body#quickView {
+      padding: 10px 20px 0;
+   }
+}
+
+@media (max-width: 480px) {
+   #productReviewNew .reviewField > input.form-control {
+      width: 90%;
+   }
+   body#quickView {
+      padding: 10px 20px 0;
+   }
+   body#viewCartQuick #quickCartRelated .prod-item {
+      width: 50%;
+   }
+}
+
+@media (max-width: 320px) {
+   body#viewCartQuick #quickCartRelated .prod-item {
+      width: 100%;
+   }
+}

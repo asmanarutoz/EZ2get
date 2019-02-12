@@ -1,0 +1,997 @@
+#checkoutSinglePagev2 > h1.page_headers {
+   padding-bottom: 41px;
+}
+
+#checkoutSinglePagev2 .account_login1 {
+   overflow: hidden;
+}
+
+#checkoutSinglePagev2 .header {
+   position: relative;
+   margin-bottom: 15px;
+   padding-bottom: 9px;
+   border-bottom: 1px solid #d0d0d0;
+}
+
+#checkoutSinglePagev2 .header:not(.header-number) {
+   overflow: hidden;
+}
+
+#checkoutSinglePagev2 .header > h3 {
+   font-family: 'Montserrat', sans-serif;
+   font-size: 18px;
+   font-weight: 700;
+   margin: 0;
+}
+
+#checkoutSinglePagev2 .header:not(.header-number) > h3 {
+   float: left;
+}
+
+#checkoutSinglePagev2 .form-group {
+   margin-bottom: 10px;
+}
+
+#checkoutSinglePagev2 .form-group .form-control {
+   width: 100%;
+   max-width: 100%;
+}
+
+#checkoutSinglePagev2 .form-horizontal .checkbox {
+   /*padding-top: 2px;
+  padding-bottom: 8px;*/
+}
+
+#checkoutSinglePagev2 .account_login1 .create_newaccount {
+   padding-bottom: 40px;
+}
+#checkoutSinglePagev2 .account_login1 .create_newaccount > div > .header,
+#checkoutSinglePagev2 .account_login1 .registered_account > div > .header {
+   padding-top: 13px;
+}
+
+#checkoutSinglePagev2 .account_login1 .registered_account .login1-button {
+   padding-bottom: 17px;
+}
+
+#checkoutSinglePagev2 .account_login1 .registered_account .loginmessage2 {
+   line-height: 18px;
+}
+
+#showEmailPassword,
+.registered-login,
+#myaccountLogin,
+.coupon-container {
+   display: none;
+}
+.registered-login {
+   padding-bottom: 40px;
+}
+.registered-login > p {
+   margin-bottom: 17px;
+}
+
+#checkoutSinglePagev2 .submit-button #btnSubmitLogin {
+   margin-right: 7px;
+}
+
+#checkoutSinglePagev2 .beta-col .header.header-number {
+   margin-bottom: 40px;
+   margin-left: 62px;
+}
+
+#checkoutSinglePagev2 .beta-col .header.header-number h3 span {
+   font-size: 30px;
+   font-weight: 400;
+   line-height: 50px;
+   position: absolute;
+   top: 2px;
+   left: -62px;
+   display: inline-block;
+   width: 52px;
+   height: 52px;
+   text-align: center;
+   vertical-align: middle;
+   border: 1px solid rgba(0, 0, 0, .5);
+   border-radius: 50%;
+}
+
+#checkoutSinglePagev2 .beta-col .leftCol > div #shipping_info,
+#checkoutSinglePagev2 .beta-col .leftCol > div #divCheckoutComments .chkComments {
+   display: none;
+}
+
+#checkoutSinglePagev2 #billing_info {
+   padding-bottom: 28px;
+}
+
+#checkoutSinglePagev2 #billing_info #billing_info2,
+#checkoutSinglePagev2 #shipping_info {
+   padding-right: 5px;
+   padding-left: 5px;
+}
+
+#checkoutSinglePagev2 #billing_info #billing_info2 .form-group,
+#checkoutSinglePagev2 #billing_info #billing_info2 .form-group,
+#checkoutSinglePagev2 #shipping_info .form-group,
+#checkoutSinglePagev2 #shipping_info .form-group {
+   margin-right: -10px;
+   margin-left: -10px;
+}
+
+#checkoutSinglePagev2 #billing_info #billing_info2 .form-group > .col-xs-12,
+#checkoutSinglePagev2 #billing_info #billing_info2 .form-group > .col-xs-6,
+#checkoutSinglePagev2 #shipping_info .form-group > .col-xs-12,
+#checkoutSinglePagev2 #shipping_info .form-group > .col-xs-6 {
+   padding-right: 5px;
+   padding-left: 5px;
+}
+
+
+/*SHIPPING INFO*/
+
+#checkoutSinglePagev2 .sameAsBilling1 {
+   position: absolute;
+   right: 0;
+}
+
+#checkoutSinglePagev2 .sameAsBilling1 .checkbox {
+   padding: 0;
+}
+
+#checkoutSinglePagev2 .beta-col .leftCol > div #shipping_info {
+   padding-bottom: 15px;
+   position: relative;
+}
+
+
+/*QUESTIONS*/
+
+#divCheckoutQuestions {
+   padding-top: 15px;
+}
+
+.chkQuestions .required {
+   display: inline-block;
+}
+
+
+/*COMMENT*/
+
+#checkoutSinglePagev2 #divCheckoutComments {
+   margin-top: 20px;
+   padding-top: 12px;
+   border-top: 1px solid #d0d0d0;
+}
+
+#checkoutSinglePagev2 #divCheckoutComments .chkComments {
+   padding-top: 15px;
+   border-top: 1px solid #d0d0d0;
+}
+
+#checkoutSinglePagev2 #divCheckoutComments .chkComments > label {
+   font-weight: 400;
+   margin-bottom: 15px;
+}
+
+#checkoutSinglePagev2 #divCheckoutComments .chkComments > textarea.form-control {
+   max-width: 100%;
+}
+
+#checkoutSinglePagev2 #divCheckoutComments h3.checkout-headers {
+   line-height: 0;
+   margin: 0;
+   padding-bottom: 15px;
+}
+
+#checkoutSinglePagev2 #divCheckoutComments h3.checkout-headers a {
+   font-size: 12px;
+   font-weight: 700;
+   line-height: 25px;
+   position: relative;
+   text-decoration: none !important;
+   color: #000;
+}
+
+#checkoutSinglePagev2 #divCheckoutComments h3.checkout-headers a:hover span {
+   border-bottom: 1px solid #000;
+}
+
+#checkoutSinglePagev2 #divCheckoutComments h3.checkout-headers a::before {
+   position: relative;
+   top: -1px;
+   left: 0;
+   display: inline-block;
+   width: 11px;
+   height: 7px;
+   margin-right: 10px;
+   content: '';
+   background: url('../images/sprite-icons.png') -200px 0 no-repeat;
+}
+
+#checkoutSinglePagev2 #divCheckoutComments h3.checkout-headers a.expanded::before {
+   background-position: -250px 0;
+}
+
+#checkoutSinglePagev2 #shipping_info + #divCheckoutComments {
+   margin-top: 0;
+   padding-top: 0;
+   border-top: 0;
+}
+
+
+/*RIGHT COLS*/
+
+
+/*SHIPPING MEDTHOD*/
+
+#checkoutSinglePagev2 .beta-col .rightCol > .divShippingMethod {
+   margin-bottom: 30px;
+}
+
+#checkoutSinglePagev2 .divShippingMethod #shipping_div .left > a > i.fa-refresh {
+   font-size: 16px;
+   position: relative;
+   top: 2px;
+   margin-right: 10px;
+   color: #2d2d2d;
+}
+
+#checkoutSinglePagev2 .divShippingMethod #shipping_div .left > a > span {
+   font-weight: 700;
+   color: #000;
+}
+
+#checkoutSinglePagev2 .divShippingMethod #shipping_div .left > a:hover > span {
+   border-bottom: 1px solid #000;
+}
+
+#checkoutSinglePagev2 .divShippingMethod #shipping_div #shipResult {
+   margin-top: -1px;
+   margin-bottom: 20px;
+}
+
+#checkoutSinglePagev2 .divShippingMethod #shipping_div #shipResult > p {
+   line-height: 18px;
+}
+
+#checkoutSinglePagev2 .divShippingMethod .shippingOption .shipper-option-desc,
+#checkoutSinglePagev2 .divShippingMethod .shippingOption .shipper-option-price2 {
+   display: inline-block;
+   padding-right: 10px;
+}
+
+
+/**/
+
+#spanCheckout .btn.btn-black {
+   font-size: 16px;
+   line-height: 56px;
+   width: 100%;
+   height: 58px;
+   margin-top: 15px;
+}
+
+
+/*SHOPPING CART*/
+
+#checkoutSinglePagev2 .alpha-col > div {
+   overflow: hidden;
+   border: 1px solid #d0d0d0;
+   box-shadow: 0 1px 5px rgba(0, 0, 0, .15);
+}
+
+#checkoutSinglePagev2 .alpha-col > div > #divCart > .header {
+   padding-top: 12px;
+   padding-left: 15px;
+   border-bottom: 0;
+   background: #f5f5f5;
+}
+
+#checkoutSinglePagev2 .alpha-col > div > #divCart > .chkcart-container {
+   padding: 0px;
+   overflow: hidden;
+   max-height: 461px;
+}
+
+#checkoutSinglePagev2 #divCart > .chkcart-container .row-items {
+   clear: both;
+   overflow: hidden;
+   margin-left: 15px;
+   margin-right: 15px;
+   margin-bottom: 15px;
+   padding-bottom: 15px;
+   border-bottom: 1px solid #e4e4e4;
+}
+
+#checkoutSinglePagev2 #divCart > .chkcart-container .row-items:last-child {
+   margin-bottom: 0;
+   border-bottom: 0;
+}
+
+#checkoutSinglePagev2 #divCart > .chkcart-container .row-items .product-image {
+   float: left;
+   margin-right: 20px;
+}
+
+#checkoutSinglePagev2 #divCart > .chkcart-container .row-items .product-info a {
+   display: block;
+   margin-bottom: 25px;
+}
+
+#checkoutSinglePagev2 #divCart > .chkcart-container .row-items .product-info span:not(#spnItemName) {
+   display: block;
+   text-align: right;
+}
+
+#checkoutSinglePagev2 #divCart > .chkcart-container .row-items .product-info span:not(#spnItemName) > em {
+   font-weight: 700;
+   font-style: normal;
+}
+
+#checkoutSinglePagev2 .divOrderTotal {
+   position: relative;
+   padding: 0 15px 15px;
+}
+
+#checkoutSinglePagev2 .divOrderTotal #total_div {
+   padding-top: 10px;
+   border-top: 1px solid #e4e4e4;
+}
+#checkoutSinglePagev2 .divOrderTotal #total_div > div {
+   line-height: 25px;
+}
+
+#checkoutSinglePagev2 .divOrderTotal #total_div > div.total_items,
+#checkoutSinglePagev2 .divOrderTotal #total_div > div.total_cart-shipping,
+#checkoutSinglePagev2 .divOrderTotal #total_div > div.total_cart-taxes,
+#checkoutSinglePagev2 .divOrderTotal #total_div > div.total_cart-total,
+#checkoutSinglePagev2 .divOrderTotal #total_div > div.total_discount-detail {
+   float: left;
+   width: 50%;
+}
+
+#checkoutSinglePagev2 .divOrderTotal #total_div > div.total_cart-total {
+   font-weight: 700;
+}
+
+#checkoutSinglePagev2 .divOrderTotal #total_div > div.total_subtotal,
+#checkoutSinglePagev2 .divOrderTotal #total_div > div.total_shipping,
+#checkoutSinglePagev2 .divOrderTotal #total_div > div.total_taxes,
+#checkoutSinglePagev2 .divOrderTotal #total_div > div.total_total,
+#checkoutSinglePagev2 .divOrderTotal #total_div > div.total_discount {
+   font-weight: 700;
+   float: left;
+   width: 50%;
+   text-align: right;
+}
+
+#checkoutSinglePagev2 .divOrderTotal #total_div > div.total_total {
+   padding-bottom: 7px;
+}
+#checkoutSinglePagev2 .divOrderTotal #total_div > div#divDiscountDetails {
+   clear: both;
+   background: #f5f5f5;
+   padding: 5px 15px;
+   margin: 0 -15px 5px;
+   overflow: hidden;
+}
+#checkoutSinglePagev2 .divOrderTotal #total_div > div#divDiscountDetails .total_promotion {
+    padding-bottom: 5px;
+    font-weight: 700;
+}
+#checkoutSinglePagev2 .divOrderTotal #total_div > div#divDiscountDetails .display-promos {
+   border-top: 1px solid #d0d0d0;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   overflow: hidden;
+}
+#checkoutSinglePagev2 .divOrderTotal #total_div > div#divDiscountDetails .display-promos .total_promotion-name {
+   float: left;
+}
+
+#checkoutSinglePagev2 .divOrderTotal #total_div > div#divDiscountDetails .display-promos .right {
+   float: right;
+}
+#checkoutSinglePagev2 .divOrderTotal #total_div > div#divDiscountDetails .display-promos .right a{
+   display: block;
+   padding: 0 5px;
+}
+
+#checkoutSinglePagev2 .divOrderTotal #total_div > div.totalinstructions {
+   line-height: 18px;
+   clear: both;
+   padding-bottom: 15px;
+}
+
+#checkoutSinglePagev2 .divOrderTotal div#divBalance {
+   clear: both;
+   overflow: hidden;
+   padding-top: 9px;
+   padding-bottom: 13px;
+   border: 1px solid #e4e4e4;
+   border-width: 1px 0;
+}
+
+#checkoutSinglePagev2 .divOrderTotal div#divBalance > div {
+   font-size: 15px;
+   font-weight: 700;
+   float: left;
+   width: 50%;
+}
+
+#checkoutSinglePagev2 .divOrderTotal div#divBalance > div.total_balance {
+   text-align: right;
+}
+
+#checkoutSinglePagev2 .divOrderTotal #total_div > div#divApplyCoupon {
+   text-align: left;
+}
+
+#checkoutSinglePagev2 .divOrderTotal div#divApplyCoupon {
+   float: none;
+   clear: both;
+   width: 100%;
+}
+
+#checkoutSinglePagev2 .divOrderTotal div#divApplyCoupon .coupon-header {
+   padding-top: 13px;
+   padding-bottom: 12px;
+}
+
+#checkoutSinglePagev2 .divOrderTotal div#divApplyCoupon .coupon-header > a {
+   font-weight: 700;
+   line-height: 25px;
+   position: relative;
+   text-decoration: none !important;
+   color: #000;
+}
+
+#checkoutSinglePagev2 .divOrderTotal div#divApplyCoupon .coupon-header > a:hover span {
+   border-bottom: 1px solid #000;
+}
+
+#checkoutSinglePagev2 .divOrderTotal div#divApplyCoupon .coupon-header > a::before {
+   position: relative;
+   top: -1px;
+   left: 0;
+   display: inline-block;
+   width: 11px;
+   height: 7px;
+   margin-right: 10px;
+   content: '';
+   background: url('../images/sprite-icons.png') -200px 0 no-repeat;
+}
+
+#checkoutSinglePagev2 .divOrderTotal div#divApplyCoupon .coupon-header > a.expanded::before {
+   background-position: -250px 0;
+}
+
+#checkoutSinglePagev2 .divOrderTotal div#divApplyCoupon .coupon-field input#coupon {
+   display: inline-block;
+   max-width: 206px;
+   margin-right: 8px;
+   vertical-align: middle;
+   float: left;
+}
+
+#checkoutSinglePagev2 .divOrderTotal div#divApplyCoupon .coupon-field button.btn-black {
+   width: 100%;
+   max-width: 57px;
+   padding: 0;
+}
+
+#checkoutSinglePagev2 .divOrderTotal div#divApplyCoupon .coupon-message {
+   font-weight: 400;
+   display: block;
+   padding-top: 7px;
+   padding-bottom: 7px;
+}
+
+
+/*Payments*/
+
+#divPaymentMethods > div {
+   clear: both;
+}
+
+#divPaymentMethods > div > h4 {
+   background: #f5f5f5;
+   font-size: 12px;
+   padding: 11px 15px 11px;
+   line-height: 18px;
+   font-weight: 700;
+   margin: 0 0 10px;
+}
+
+#divPaymentMethods > div > h4 > .radio {
+   padding-top: 0;
+   min-height: auto;
+}
+
+#divPaymentMethods > div > h4 > .radio > label {
+   line-height: 20px;
+   font-weight: 700;
+}
+
+
+/*paypal express Gateway*/
+
+.ppExpress > .desc-message {
+   padding-top: 5px;
+   padding-bottom: 10px;
+}
+
+.ppExpress > .ppe-radio {
+   margin-bottom: 25px;
+   line-height: 20px;
+}
+
+.ppExpress > .ppe-radio > label > input {
+   top: 50%;
+   -moz-transform: translateY(-50%);
+   -webkit-transform: translateY(-50%);
+   -ms-transform: translateY(-50%);
+   -0-transform: translateY(-50%);
+   transform: translateY(-50%);
+}
+
+.ppExpress > .ppe-radio > label > .payment-desc > img {
+   margin-right: 10px;
+}
+
+
+/* MasterPass Wallet */
+
+.checkoutMasterPass {
+   margin-bottom: 15px;
+}
+
+.checkoutMasterPass a {
+   display: inline-block;
+   font-size: 11px;
+   margin: 2px 0;
+}
+
+
+/* PayPal Advance Gateway */
+
+.ppAdv {
+   margin-bottom: 15px;
+}
+
+.ppAdv input[type="radio"] {
+   margin: 0 5px;
+}
+
+
+/* AuthentCIM Gateway */
+
+.authneticIMBlock {
+   margin-bottom: 15px;
+}
+
+
+/* FuturePay Gateway */
+
+.fpay {
+   margin-bottom: 15px;
+}
+
+.fpay .desc-message {
+   padding: 10px;
+}
+
+.fpay-radio {
+   float: left;
+   line-height: 35px;
+   margin: 0 5px;
+   padding: 5px 0 0;
+   overflow: hidden;
+}
+
+.fpay-logo {
+   float: left;
+   margin: 0 5px 0 0;
+   width: 108px;
+}
+
+.fpay .payment-desc {
+   float: left;
+   line-height: 50px;
+   margin: 0;
+}
+
+.fpay .payment-desc_v2 {
+   float: left;
+   margin: 0;
+   width: 150px;
+}
+
+.fpay-logo_v2 {
+   float: left;
+   margin: 0 5px 0 0;
+}
+
+
+/* WePay Gateway */
+
+.wpay {
+   margin-bottom: 15px;
+}
+
+.wpay .desc-message {
+   padding: 10px;
+}
+
+.wpay-radio {
+   float: left;
+   margin: 0 5px;
+   padding: 19px 0 0;
+   overflow: hidden;
+}
+
+.wpay-logo {
+   float: left;
+   margin: 0 5px 0 0;
+   padding: 0;
+}
+
+.wpay .payment-desc {
+   float: left;
+   line-height: 50px;
+   margin: 0;
+}
+
+.wpay .payment-desc_v2 {
+   float: left;
+   margin: 0;
+   width: 150px;
+}
+
+.wpay-logo_v2 {
+   float: left;
+   margin: 0 5px 0 0;
+}
+
+.wpay .payment-desc {
+   display: none;
+}
+
+
+/* Affirm Gateway */
+
+.affirm {
+   margin-bottom: 15px;
+}
+
+.affirm .desc-message {
+   padding: 0px;
+}
+
+.affirm-radio {
+   float: left;
+   line-height: 35px;
+   margin: 0 5px;
+   padding: 1px 0 0;
+   overflow: hidden;
+}
+
+.affirm-logo {
+   float: left;
+   margin: 0 5px 0 0;
+   width: 108px;
+}
+
+.affirm .payment-desc {
+   float: left;
+   line-height: 50px;
+   margin: 0;
+}
+
+
+/* Credit Cards Gateways */
+
+.cimField {
+   margin: 10px 0 0 15px;
+}
+
+.ccGateway {
+   margin-bottom: 10px;
+}
+
+.ccgField {
+   margin-top: 10px;
+   clear: both;
+   overflow: hidden;
+}
+
+.ccgField label {
+   display: block;
+   line-height: 1.8em;
+   margin-right: 10px;
+}
+
+.ccgField input.form-control {
+   display: inline-block;
+   vertical-align: middle;
+}
+
+.ccgField select {
+   float: left;
+   margin-right: 7px;
+   max-width: 100%;
+}
+
+.ccgField select.ocardexpiresmonth,
+.ccgField select.ocardexpiresyear {
+   width: 100px;
+}
+
+.ccgField img {}
+
+.ccgField .cvv2-help {
+   float: left;
+   margin-left: 5px;
+   display: block;
+   line-height: 2.9em;
+}
+
+.ccgField.savecc-field {
+   margin-bottom: 20px;
+}
+
+
+/* Klarna Gateway */
+
+.klarnaInvoice,
+.klarnaAccount {
+   margin-bottom: 15px;
+}
+
+.klarna-invoice-radio {
+   float: left;
+   line-height: 35px;
+   margin: 0 5px;
+   padding: 8px 0 0 0;
+   overflow: hidden;
+}
+
+.klarna-invoice-logo img {
+   float: left;
+   margin: 0 5px 0 0;
+}
+
+.klarna-invoice-logo span {
+   float: left;
+   line-height: 35px;
+   display: block;
+   margin: 0;
+}
+
+#klarna_invoiceterms {
+   margin: 0 0 0 30px;
+}
+
+.klarnaField {
+   margin-bottom: 10px;
+}
+
+.klarnaField .label {
+   float: left;
+   width: 150px;
+   text-align: right;
+   line-height: 2.9em;
+   margin-right: 10px;
+}
+
+.klarna-invoice-details {
+   margin: 10px 0 10px 30px;
+}
+
+.klarna-account-radio {
+   float: left;
+   line-height: 35px;
+   margin: 0 5px;
+   padding: 8px 0 0 0;
+   overflow: hidden;
+}
+
+.klarna-account-logo img {
+   float: left;
+   margin: 0 5px 0 0;
+}
+
+.klarna-account-logo span {
+   float: left;
+   line-height: 35px;
+   display: block;
+   margin: 0;
+}
+
+.klarna-account-details {
+   margin: 10px 0 10px 30px;
+}
+
+#klarna_accountterms {
+   margin: 0 0 0 30px;
+}
+
+#afm_banner {
+   margin: 10px 0 5px 30px;
+}
+
+
+/* Link Gateway */
+
+.linkGateway {
+   margin-bottom: 15px;
+}
+
+.linkGateway .payment-desc {
+   padding: 10px;
+}
+
+
+/* eLayaway Gateway */
+
+.elayawayGateway {
+   margin-bottom: 15px;
+}
+
+.elayawayGateway .desc-message {
+   margin: 10px 0 10px 30px;
+}
+
+.divElayaway {
+   margin: 0 0 0 30px;
+}
+
+
+/* Military Star */
+
+.militaryStar {
+   margin-bottom: 15px;
+}
+
+.msField {
+   margin-top: 10px;
+}
+
+.msField label {
+   line-height: 2.9em;
+   margin-right: 10px;
+}
+
+.msField input {
+   float: left;
+}
+
+.msField img {
+   float: left;
+   padding: 8px 0 0 6px;
+}
+
+
+/* GE Money */
+
+.geMoney {
+   margin-bottom: 15px;
+}
+
+.gmField {
+   margin-top: 10px;
+}
+
+.gmField label {
+   line-height: 2.9em;
+   margin-right: 10px;
+}
+
+.gmField input {
+   float: left;
+}
+
+.gmField img {
+   float: left;
+   padding: 8px 0 0 6px;
+}
+
+
+/* Check Gateway */
+
+.chkGateway {
+   margin-bottom: 15px;
+}
+
+
+/* Custom Gateway */
+
+.customGateway .payment-type {
+   padding: 5px 0 10px;
+}
+
+.customGateway .custField {
+   padding-bottom: 20px;
+}
+
+.customGateway .custField > .cust-input {
+   display: inline-block;
+   padding-right: 10px;
+}
+
+.customGateway .custField > .cust-field {
+   display: inline-block;
+}
+
+
+/* V.ME Not Selected */
+
+#divVmeNotSelected {
+   margin-bottom: 15px;
+}
+
+
+/* Insurance Costs */
+
+.divInsurance {
+   margin-bottom: 15px;
+}
+
+.divInsurance h4 {
+   background: #EAE9E9;
+   background: rgba(234, 233, 233, 0.3);
+   background-color: #EAE9E9;
+   background-color: rgba(234, 233, 233, 0.3);
+   filter: progid: DXImageTransform.Microsoft.gradient(startColorstr=#99EAE9E9, endColorstr=#99EAE9E9);
+   -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99EAE9E9, endColorstr=#99EAE9E9)";
+   font-size: 100%;
+   padding: 5px;
+}
+
+.divInsurance .insurField {
+   margin-bottom: 10px;
+}
+
+.divInsurance .insurField input {
+   float: left;
+   margin: 3px 15px 0 0;
+   padding: 0;
+   width: 15px;
+}
+
+.divInsurance .insurField label {
+   float: left;
+   display: block;
+   width: 90%;
+}
+
+@media (max-width: 991px) {
+   #checkoutSinglePagev2 .account_login1 {
+      padding-top: 25px;
+   }
+}
+@media (max-width: 767px) {
+   .create_newaccount {
+      padding-bottom: 20px !important;
+   }
+   .registered_account {
+      width: 100% !important;
+      padding-bottom: 40px;
+   }
+   .registered-login {
+      padding-bottom: 0px ;
+   }
+   #checkoutSinglePagev2 .beta-col .leftCol {
+      margin-bottom: 45px;
+   }
+   #checkoutSinglePagev2 .beta-col .rightCol > .divShippingMethod {
+      margin-bottom: 45px;
+   }
+}
+
+@media (max-width: 320px) {
+   #checkoutSinglePagev2 .header > h3 {
+      font-size: 14px;
+   }
+}
