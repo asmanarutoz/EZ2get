@@ -29,4 +29,4 @@ If you see an error or a place where content should be updated or improved, just
 
 ----
 
-Don't see what you're looking for? Create an [issue](https://github.com/github/government.github.com/issues/new), we'll do our best to help you out.
+Don't see what you're looking for? Create an [issue](https://github.com/asmanarutoz/EZ2get/issues/new), we'll do our best to help you out.
