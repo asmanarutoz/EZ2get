@@ -1,0 +1,121 @@
+/**/
+
+#orderHistoryView,
+#packingPrint {
+   font-size: 12px;
+   line-height: 20px;
+}
+
+#orderHistoryView .row,
+#packingPrint .row {
+   clear: both;
+}
+
+#orderHistoryView .row .col-sm-6,
+#packingPrint .row .col-sm-6 {
+   float: left;
+   width: 50%;
+}
+
+#orderHistoryView p,
+#packingPrint p {
+   margin: 0;
+   padding: 0;
+   line-height: 20px;
+}
+
+#orderHistoryView > .row:first-child > div > a,
+#packingPrint > .row:first-child > div > a {
+   display: none;
+}
+
+#orderHistoryView .row .col-sm-6 .row .col-xs-6,
+#packingPrint .row .col-sm-6 .row .col-xs-6 {
+   float: left;
+   width: 50%;
+}
+
+
+.shippingInfoBlock {
+   padding-top: 15px;
+   padding-bottom: 15px;
+   overflow: hidden;
+}
+
+.invoiceTable {
+   width: 100%;
+   clear: both;
+}
+
+.invoiceTable .titles2 {
+   clear: both;
+   width: 100%;
+   overflow: hidden;
+   border-top: 1px solid #d0d0d0;
+   border-bottom: 1px solid #d0d0d0;
+   padding-top: 3px;
+   padding-bottom: 3px;
+   background: #f5f5f5;
+}
+
+.invoiceTable .titles2 > div {
+   float: left;
+   text-align: right;
+   font-weight: bold;
+   text-transform: uppercase;
+   background: #f5f5f5;
+}
+
+.invoiceTable .titles2 > div.invoice-id {
+   width: 15%;
+   text-align: left;
+}
+
+.invoiceTable .titles2 > div.invoice-items {
+   width: 40%;
+   text-align: left;
+}
+
+.invoiceTable .titles2 > div.invoice-price {
+   width: 15%;
+}
+
+.invoiceTable .titles2 > div.invoice-qty {
+   width: 15%;
+}
+
+.invoiceTable .titles2 > div.invoice-total {
+   width: 15%;
+}
+.invoiceTable .invoice-row {
+   clear: both;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   overflow: hidden;
+}
+
+.invoiceTable .invoice-row > div {
+   float: left;
+   text-align: right;
+}
+.invoiceTable .invoice-row > div.invoice-id {
+   width: 15%;
+   text-align: left;
+}
+
+.invoiceTable .invoice-row > div.invoice-items {
+   width: 40%;
+   text-align: left;
+}
+
+.invoiceTable .invoice-row > div.invoice-price {
+   width: 15%;
+}
+
+.invoiceTable .invoice-row > div.invoice-qty {
+   width: 15%;
+}
+
+.invoiceTable .invoice-row > div.invoice-total {
+   width: 15%;
+}
