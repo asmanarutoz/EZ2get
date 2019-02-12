@@ -9,7 +9,7 @@ The site is closed source (Please contact us before submitting any code!) and is
 - **Develop CSS** style sheets up to our high standards.
 - **Demystify website** terminology, HTML, CSS, etc.
 - **Showcase Brian** that using GitHub to ease his burden of programming everything sucks a fair bit.
-- Making it **EZier 2 Get** stuff done on a timely manner!
+- Making it **EZ-er 2 Get** stuff done on a timely manner!
 
 
 - **Homepage:** [asmanarutoz/EZ2get/home.html](https://github.com/asmanarutoz/EZ2get/blob/master/Ella-html5/home.html) (this repository)
