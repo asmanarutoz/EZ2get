@@ -1,6 +1,6 @@
 ###EZ2get website repository to keep tabs on the new commits
 
-![screenshot](assets/img/screenshot.png)
+![screenshot](https://github.com/asmanarutoz/EZ2get/blob/master/Ella-html5/assets/img/screenshot.png)
 
 The site is closed source (Please contact us before submitting any code!) and is a tool for our company.
 
@@ -12,13 +12,14 @@ The site is closed source (Please contact us before submitting any code!) and is
 - Making it **EZier 2 Get** stuff done on a timely manner!
 
 
-- **Homepage:** [asmanarutoz/EZ2get/home.html](https://github.com/asmanarutoz/EZ2get/blob/master/home.html) (this repository)
-- **Frame:** [asmanarutoz/EZ2get/frame.html](https://github.com/asmanarutoz/EZ2get/blob/master/frame.html)
-- **CSS:** [asmanarutoz/EZ2get/CSS.md](https://ghe.io/government/staging)
-- **README:** [asmanarutoz/EZ2get/README.md](https://github.com/asmanarutoz/EZ2get/blob/master/frame.html)
+- **Homepage:** [asmanarutoz/EZ2get/home.html](https://github.com/asmanarutoz/EZ2get/blob/master/Ella-html5/home.html) (this repository)
+- **Frame:** [asmanarutoz/EZ2get/frame.html](https://github.com/asmanarutoz/EZ2get/blob/master/Ella-html5/frame.html)
+- **CSS:** [asmanarutoz/EZ2get/CSS](https://github.com/asmanarutoz/EZ2get/tree/master/Ella-html5/css)
+- **404:** [asmanarutoz/EZ2get/404.html](https://github.com/asmanarutoz/EZ2get/blob/master/Ella-html5/404.html)
+- **README:** [asmanarutoz/EZ2get/README.md](https://github.com/asmanarutoz/EZ2get/blob/master/README.md)
 
 ```
-$ script/stage staging
+/AL_Test/TEST-GITHUB/EZ2get/Ella-html5/home.html
 ```
 
 ----
