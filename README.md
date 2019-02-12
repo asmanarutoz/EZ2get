@@ -8,7 +8,7 @@ The site is closed source (Please contact us before submitting any code!) and is
 
 - **Develop CSS** style sheets up to our high standards.
 - **Demystify website** terminology, HTML, CSS, etc.
-- **Showcase Brian** that using GitHub to ease his burden of programming everything sucks a fair bit.
+- **Showcase Brian** that using GitHub to ease his burden of programming everything sucks a fair bit less.
 - Making it **EZ-er 2 Get** stuff done on a timely manner!
 
 
