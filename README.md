@@ -18,11 +18,11 @@ Please see attached screenshots for reference
 ----
 
 #### For 1-5, please refer to https://www.easy2getfurniture.com/Freguently-Asked-Questions ep 62-1.html
-1) "no interest pay off option" found under the question "What Are My Payment Options?" There's no interest charged on a lease-purchase option; however, there's a cost of leasing.
-2) "We are required by law to charge sales tax for all interstate sales we make" under the "Sales Tax" section:
-For purchases made through Progressive Leasing, the store isn't to charge sales tax.
-3) "90 Day Payment Option*" found on the Progressive Leasing advertisement in the sidebar:
-We don't offer a 90-day Payment Option in CA.
+~~1) "no interest pay off option" found under the question "What Are My Payment Options?" There's no interest charged on a lease-purchase option; however, there's a cost of leasing.~~
+~~2) "We are required by law to charge sales tax for all interstate sales we make" under the "Sales Tax" section:
+For purchases made through Progressive Leasing, the store isn't to charge sales tax.~~
+~~3) "90 Day Payment Option*" found on the Progressive Leasing advertisement in the sidebar:
+We don't offer a 90-day Payment Option in CA.~~
 4) "Financing" link found at the bottom of the page:
 We aren't a financing option.
 5) " Financing & Leasing" link at the top of the page:
@@ -87,22 +87,22 @@ Progressive Leasing is the only purchase option available on the store's website
 be implied that we are a financing company or that approvals/approval limits are guaranteed.
 
 #### For 22, please see https://www.yelp.com/biz photos/ez2get-furniture-los-angeles-2?select=dwF3PioORFamG1spW eaEg
-22) "90 Day Payment Option" on online image:
+~~22) "90 Day Payment Option" on online image:
 We don't offer a 90-day Payment Option in CA.
 
 #### For 23, please see https://www.instagram.com/p/Bo-UgrYBQGa/
-23) "90 Day Payment Option", "Financing", "#ezfinancing", "#90daynotinterest", and "#$49down" on
+~~23) "90 Day Payment Option", "Financing", "#ezfinancing", "#90daynotinterest", and "#$49down" on
 Instagram post:
 We don't offer a 90-day Payment option in CA. The description of this image calls us financing, implies
 we have interest and a down payment. When a specific initial payment amount is used, the initial
-payment disclosure is required.
+payment disclosure is required.~~
 #### For 24, please see https://www.easy2getfurniture.com/Progressive/progressive.html
 24) "Progressive Financing" title of Easy 2 Get Leasing page: We aren't a financing company, and this isn't our name. 
 ----
 #### To Resolve:
-1) Please shorten this description to simply "Offered by Progressive Leasing".
-2) Please add a clarification such as "If making a lease purchase through Progressive Leasing, please be aware that they will handle charging the tax rate on your purchase." or similar.
-3) If the store serves residents outside of CA, please change to "90-day Payment Option (3 Months in CA)". Please change to "3 Months Same-As-Cash".
+~~1) Please shorten this description to simply "Offered by Progressive Leasing".~~
+~~2) Please add a clarification such as "If making a lease purchase through Progressive Leasing, please be aware that they will handle charging the tax rate on your purchase." or similar.~~
+~~3) If the store serves residents outside of CA, please change to "90-day Payment Option (3 Months in CA)". Please change to "3 Months Same-As-Cash".~~
 4-5) Please change to "Progressive Leasing" since it is a page dedicated to solely our company.
 6) Please change to "90-day Payment Option (3 Months in CA)".
 7) Please shorten to "There's no credit needed when you use Progressive Leasing!"
@@ -125,8 +125,8 @@ welcome to contact Progressive Leasing and ask to take advantage of your 90-day 
 19) Please change to "Apply for Progressive Leasing here!" or similar.
 20) Please change to "Get an Instant Decision".
 21) Please remove "Online instant approval", so nothing in the post references Progressive Leasing.
-22) Please remove image or change the image description to clarify "90-day Payment Option (3 Months in CA)".
-23) Please remove this post.
+~~22) Please remove image or change the image description to clarify "90-day Payment Option (3 Months in CA)".~~
+~~23) Please remove this post.~~
 24) Please update the title of the page to "Progressive Leasing".
 
 ----
