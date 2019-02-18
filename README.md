@@ -15,7 +15,9 @@ Compliance Review of Store's Online Advertising
 https://www.easy2getfurniture.com/
 Please see attached screenshots for reference
 
-For 1-5, please refer to https://www.easy2getfurniture.com/Freguently-Asked-Questions ep 62-1.html
+----
+
+### For 1-5, please refer to https://www.easy2getfurniture.com/Freguently-Asked-Questions ep 62-1.html
 1) "no interest pay off option" found under the question "What Are My Payment Options?" There's no interest charged on a lease-purchase option; however, there's a cost of leasing.
 2) "We are required by law to charge sales tax for all interstate sales we make" under the "Sales Tax" section:
 For purchases made through Progressive Leasing, the store isn't to charge sales tax.
@@ -25,8 +27,9 @@ We don't offer a 90-day Payment Option in CA.
 We aren't a financing option.
 5) " Financing & Leasing" link at the top of the page:
 We aren't a financing option.
-For 6-16, please refer to https://www.easy2getfurniture.com/Progressive/progressive.html
-Please keep in mind that the store is also able to replace the FAQ section on this page with a link to our
+
+### For 6-16, please refer to https://www.easy2getfurniture.com/Progressive/progressive.html
+### Please keep in mind that the store is also able to replace the FAQ section on this page with a link to our
 FAQ page: https://progleasing.com/frequently-asked-questions/
 6) "90 Day Payment Option*" near the top of the page:
 We don't offer a 90-day Payment Option in CA.
@@ -58,10 +61,12 @@ advertise.
 This store does not offer any other lease term beside 12 months.
 16) "Leasing available at select Big Lots locations only" at the bottom of page:
 This page isn't for a Big Lots location.
-For 17, please see http://www.easy2getfurniture.com/
+
+### For 17, please see http://www.easy2getfurniture.com/
 17) "90 day Payment Option11 banner:
 We don't offer a 90-day Payment Option in CA.
-For 18-19, please see http://www.easy2getfurniture.com/Grey-with-Mirrored-Accents-Strips-ChestP
+
+### For 18-19, please see http://www.easy2getfurniture.com/Grey-with-Mirrored-Accents-Strips-ChestP
 5265.html as an example
 18) "Enjoy your furniture today and pay it later" found under the button to apply for Progressive
 Leasing:
@@ -69,25 +74,29 @@ We require minimum payments. We aren't a "Buy Now Pay Later" type of company, an
 implied that we are.
 19) "No interest for 90 days11 found under the button to apply for Progressive Leasing:
 We don't have interest, and it can't be implied that we do.
-For 20, please see https://www.easy2getfurniture.com/checkout one.asp (or any checkout page for any
+
+### For 20, please see https://www.easy2getfurniture.com/checkout one.asp (or any checkout page for any
 item)
 20) "Get Approved" when Progressive Leasing is selected under the third step, "Choose one payment
 method":
 It can't be implied that any approval/approval limit is guaranteed.
-For 21, please see https://www.yelp.com/biz photos/ez2get-furniture-los-angeles-2?select=nTEsu9n4rqsdbGKFw06TA
+
+### For 21, please see https://www.yelp.com/biz photos/ez2get-furniture-los-angeles-2?select=nTEsu9n4rqsdbGKFw06TA
 21) "Online instant approval" image description:
 Progressive Leasing is the only purchase option available on the store's website to apply online. It can't
 be implied that we are a financing company or that approvals/approval limits are guaranteed.
-For 22, please see https://www.yelp.com/biz photos/ez2get-furniture-los-angeles-2?select=dwF3PioORFamG1spW eaEg
+
+### For 22, please see https://www.yelp.com/biz photos/ez2get-furniture-los-angeles-2?select=dwF3PioORFamG1spW eaEg
 22) "90 Day Payment Option" on online image:
 We don't offer a 90-day Payment Option in CA.
-For 23, please see https://www.instagram.com/p/Bo-UgrYBQGa/
+
+### For 23, please see https://www.instagram.com/p/Bo-UgrYBQGa/
 23) "90 Day Payment Option", "Financing", "#ezfinancing", "#90daynotinterest", and "#$49down" on
 Instagram post:
 We don't offer a 90-day Payment option in CA. The description of this image calls us financing, implies
 we have interest and a down payment. When a specific initial payment amount is used, the initial
 payment disclosure is required.
-For 24, please see https://www.easy2getfurniture.com/Progressive/progressive.html
+### For 24, please see https://www.easy2getfurniture.com/Progressive/progressive.html
 24) "Progressive Financing" title of Easy 2 Get Leasing page: We aren't a financing company, and this isn't our name. 
 ----
 ### To Resolve:
