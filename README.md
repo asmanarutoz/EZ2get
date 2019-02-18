@@ -31,6 +31,7 @@ We aren't a financing option.
 #### For 6-16, please refer to https://www.easy2getfurniture.com/Progressive/progressive.html
 #### Please keep in mind that the store is also able to replace the FAQ section on this page with a link to our
 FAQ page: https://progleasing.com/frequently-asked-questions/
+
 6) "90 Day Payment Option*" near the top of the page:
 We don't offer a 90-day Payment Option in CA.
 7) "Our approval is based on income and employment" found under the section labeled "No Credit
