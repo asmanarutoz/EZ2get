@@ -32,8 +32,8 @@ We aren't a financing option.
 #### Please keep in mind that the store is also able to replace the FAQ section on this page with a link to our
 FAQ page: https://progleasing.com/frequently-asked-questions/
 
-6) "90 Day Payment Option*" near the top of the page:
-We don't offer a 90-day Payment Option in CA.
+6) ~~"90 Day Payment Option*" near the top of the page:
+~~We don't offer a 90-day Payment Option in CA.~~
 7) "Our approval is based on income and employment" found under the section labeled "No Credit
 Needed":
 Our approvals are based on several factors, and this process is proprietary to our application process.
@@ -103,8 +103,9 @@ payment disclosure is required.~~
 1) ~~Please shorten this description to simply "Offered by Progressive Leasing".~~
 2) ~~Please add a clarification such as "If making a lease purchase through Progressive Leasing, please be aware that they will handle charging the tax rate on your purchase." or similar.~~
 3) ~~If the store serves residents outside of CA, please change to "90-day Payment Option (3 Months in CA)". Please change to "3 Months Same-As-Cash".~~
-4-5) Please change to "Progressive Leasing" since it is a page dedicated to solely our company.
-6) Please change to "90-day Payment Option (3 Months in CA)".
+4) Please change to "Progressive Leasing" since it is a page dedicated to solely our company.
+5) Please change to "Progressive Leasing" since it is a page dedicated to solely our company.
+6) ~~Please change to "90-day Payment Option (3 Months in CA)".~~
 7) Please shorten to "There's no credit needed when you use Progressive Leasing!"
 8) Please change this sub-header to "90-day Payment Option (3 Months in CA) and Early Buyout Option:"
 9) Please change to "Payments will be set up to automatically withdraw from your checking account by default:" or similar.
