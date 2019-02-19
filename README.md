@@ -91,7 +91,7 @@ be implied that we are a financing company or that approvals/approval limits are
 22) ~~"90 Day Payment Option" on online image: We don't offer a 90-day Payment Option in CA.~~
 
 #### For 23, please see https://www.instagram.com/p/Bo-UgrYBQGa/
-23) ~~"90 Day Payment Option", "Financing", "#ezfinancing", "#90daynotinterest", and "#$49down" on Instagram post:
+23) ~~"90 Day Payment Option", "Financing", "#ezfinancing", "#90daynotinterest", and "#$49down" on Instagram post:~~
 ~~We don't offer a 90-day Payment option in CA. The description of this image calls us financing, implies
 we have interest and a down payment. When a specific initial payment amount is used, the initial
 payment disclosure is required.~~
