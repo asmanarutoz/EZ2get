@@ -24,8 +24,8 @@ We aren't a financing option.
 5) " Financing & Leasing" link at the top of the page:
 We aren't a financing option.
 
-#### For 18-19, please see http://www.easy2getfurniture.com/Grey-with-Mirrored-Accents-Strips-ChestP
-5265.html as an example
+#### For 18-19, please see http://www.easy2getfurniture.com/Grey-with-Mirrored-Accents-Strips-ChestP5265.html as an example
+
 18) "Enjoy your furniture today and pay it later" found under the button to apply for Progressive
 Leasing:
 We require minimum payments. We aren't a "Buy Now Pay Later" type of company, and it can't be
