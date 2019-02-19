@@ -147,7 +147,7 @@ payment disclosure is required.
 
 - **Develop CSS** style sheets up to our high standards.
 - **Demystify website** terminology, HTML, CSS, etc.
-- **Showcase Brian** that using GitHub to ease his burden of programming everything so it sucks a fair bit less.
+- **Showcase Brian** that using GitHub to ease his burden of programming everything, sucks a fair bit less.
 - Making it **EZ-er 2 Get** stuff done on a timely manner!
 
 
