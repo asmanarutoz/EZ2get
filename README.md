@@ -17,7 +17,7 @@ Please see attached screenshots for reference
 
 ----
 
-#### For 1-5, please refer to https://www.easy2getfurniture.com/Freguently-Asked-Questions ep 62-1.html
+#### For 1-5, please refer to http://www.easy2getfurniture.com/Grey-with-Mirrored-Accents-Strips-Chest-_p_5265.html
 1) ~~"no interest pay off option" found under the question "What Are My Payment Options?" There's no interest charged on a lease-purchase option; however, there's a cost of leasing.~~
 2) ~~"We are required by law to charge sales tax for all interstate sales we make" under the "Sales Tax" section:
 For purchases made through Progressive Leasing, the store isn't to charge sales tax.~~
@@ -64,8 +64,8 @@ This store does not offer any other lease term beside 12 months.
 This page isn't for a Big Lots location.
 
 #### For 17, please see http://www.easy2getfurniture.com/
-17) "90 day Payment Option11 banner:
-We don't offer a 90-day Payment Option in CA.
+~~17) "90 day Payment Option11 banner:
+We don't offer a 90-day Payment Option in CA.~~
 
 #### For 18-19, please see http://www.easy2getfurniture.com/Grey-with-Mirrored-Accents-Strips-ChestP
 5265.html as an example
@@ -83,13 +83,12 @@ method":
 It can't be implied that any approval/approval limit is guaranteed.
 
 #### For 21, please see https://www.yelp.com/biz photos/ez2get-furniture-los-angeles-2?select=nTEsu9n4rqsdbGKFw06TA
-21) "Online instant approval" image description:
+~~21) "Online instant approval" image description:
 Progressive Leasing is the only purchase option available on the store's website to apply online. It can't
-be implied that we are a financing company or that approvals/approval limits are guaranteed.
+be implied that we are a financing company or that approvals/approval limits are guaranteed.~~
 
 #### For 22, please see https://www.yelp.com/biz photos/ez2get-furniture-los-angeles-2?select=dwF3PioORFamG1spW eaEg
-22) ~~"90 Day Payment Option" on online image:
-We don't offer a 90-day Payment Option in CA.
+22) ~~"90 Day Payment Option" on online image: We don't offer a 90-day Payment Option in CA.~~
 
 #### For 23, please see https://www.instagram.com/p/Bo-UgrYBQGa/
 23) ~~"90 Day Payment Option", "Financing", "#ezfinancing", "#90daynotinterest", and "#$49down" on Instagram post:
@@ -124,9 +123,9 @@ welcome to contact Progressive Leasing and ask to take advantage of your 90-day 
 18) Please shorten to "Enjoy your furniture today".
 19) Please change to "Apply for Progressive Leasing here!" or similar.
 20) Please change to "Get an Instant Decision".
-21) Please remove "Online instant approval", so nothing in the post references Progressive Leasing.
-~~22) Please remove image or change the image description to clarify "90-day Payment Option (3 Months in CA)".~~
-~~23) Please remove this post.~~
+21) ~~Please remove "Online instant approval", so nothing in the post references Progressive Leasing.~~
+22) ~~Please remove image or change the image description to clarify "90-day Payment Option (3 Months in CA)".~~
+23) ~~Please remove this post.~~
 24) Please update the title of the page to "Progressive Leasing".
 
 ----
