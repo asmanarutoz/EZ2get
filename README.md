@@ -34,32 +34,15 @@ FAQ page: https://progleasing.com/frequently-asked-questions/
 
 6) ~~"90 Day Payment Option*" near the top of the page:
 ~~We don't offer a 90-day Payment Option in CA.~~
-7) "Our approval is based on income and employment" found under the section labeled "No Credit
-Needed":
-Our approvals are based on several factors, and this process is proprietary to our application process.
-We can't imply that any approval/approval limit is guaranteed.
-8) "90-Day Payment option, discounted early buyout 90 days:" under "Simple Payment Plans":
-We don't offer a 90-day Payment Option in CA, and we have an Early Buyout Option after the 90-day
-Payment Option (3 Months in CA), not a discounted version of the 90-day option.
-9) "Payments can be automatically withdrawn from your account:" found under "Simple Payment Plans:
-This implies that the customer gets to choose before payments begin.
-10) "See our Pre-Approval Matrix to get a free peek at what your payments may look like" under
-"Simple Payment Plans":
-We can't imply that any approval/approval limit is guaranteed.
-11) "Once the item(s) has been paid in full, you own the product(s)." under the question "What is the
-Progressive Lease-to-Own program?":
-This can mislead since there's usually a cost of leasing included in the lease balance.
-12) Answer to the question "What do I need to apply?":
-This contains unapproved requirements that the retailer isn't allowed to list.
-13) "after the lease is executed" in answer to the question "Is there a processing fee for the Progressive
-Leasing lease?":
-This isn't clear. We don't require the initial payment when the contracts are created. We require it only
-when it is e-signed.
-14) "and closed Sunday" in answer to the question "How long is the lease agreement?":
-Our customer service department is open on Sundays; however, this isn't a fact we proactively
-advertise.
-15) The answer to the question "How long is the lease agreement?":
-This store does not offer any other lease term beside 12 months.
+7) ~~"Our approval is based on income and employment" found under the section labeled "No Credit Needed": Our approvals are based on several factors, and this process is proprietary to our application process. We can't imply that any approval/approval limit is guaranteed.~~
+8) ~~"90-Day Payment option, discounted early buyout 90 days:" under "Simple Payment Plans": We don't offer a 90-day Payment Option in CA, and we have an Early Buyout Option after the 90-day Payment Option (3 Months in CA), not a discounted version of the 90-day option.~~
+9) ~~"Payments can be automatically withdrawn from your account:" found under "Simple Payment Plans: This implies that the customer gets to choose before payments begin.~~
+10) ~~"See our Pre-Approval Matrix to get a free peek at what your payments may look like" under "Simple Payment Plans": We can't imply that any approval/approval limit is guaranteed.~~
+11) ~~"Once the item(s) has been paid in full, you own the product(s)." under the question "What is the Progressive Lease-to-Own program?": This can mislead since there's usually a cost of leasing included in the lease balance.~~
+12) ~~Answer to the question "What do I need to apply?": This contains unapproved requirements that the retailer isn't allowed to list.~~
+13) ~~"after the lease is executed" in answer to the question "Is there a processing fee for the Progressive Leasing lease?": This isn't clear. We don't require the initial payment when the contracts are created. We require it only when it is e-signed.~~
+14) ~~"and closed Sunday" in answer to the question "How long is the lease agreement?": Our customer service department is open on Sundays; however, this isn't a fact we proactively advertise.~~
+15) ~~The answer to the question "How long is the lease agreement?": This store does not offer any other lease term beside 12 months.~~
 16) ~~"Leasing available at select Big Lots locations only" at the bottom of page:~~
 ~~This page isn't for a Big Lots location.~~
 
@@ -106,20 +89,19 @@ payment disclosure is required.~~
 4) Please change to "Progressive Leasing" since it is a page dedicated to solely our company.
 5) Please change to "Progressive Leasing" since it is a page dedicated to solely our company.
 6) ~~Please change to "90-day Payment Option (3 Months in CA)".~~
-7) Please shorten to "There's no credit needed when you use Progressive Leasing!"
-8) Please change this sub-header to "90-day Payment Option (3 Months in CA) and Early Buyout Option:"
-9) Please change to "Payments will be set up to automatically withdraw from your checking account by default:" or similar.
-10) Please remove or replace with a relevant statement such as "If you'd like to make any changes to the way your payments are withdrawn, you are welcome to contact Progressive Leasing at 877-898-1970 or customersupport@progleasing.com".
-11) Please change to "Make all the regularly scheduled payments outlined in your lease agreement or utilize an early purchase option to own your merchandise."
-12) Please replace with the 4 approved application requirements:
-- Must be 18 years or older
-- Must have valid Social Security Number or ITIN
-- Have routing and account numbers for an open and valid checking account
-- Have a Credit or debit card
+7) ~~Please shorten to "There's no credit needed when you use Progressive Leasing!"~~
+8) ~~Please change this sub-header to "90-day Payment Option (3 Months in CA) and Early Buyout Option:"~`
+9) ~~Please change to "Payments will be set up to automatically withdraw from your checking account by default:" or similar.~~
+10) ~~Please remove or replace with a relevant statement such as "If you'd like to make any changes to the way your payments are withdrawn, you are welcome to contact Progressive Leasing at 877-898-1970 or customersupport@progleasing.com".~~
+11) ~~Please change to "Make all the regularly scheduled payments outlined in your lease agreement or utilize an early purchase option to own your merchandise."~~
+12) ~~Please replace with the 4 approved application requirements:~~
+~~- Must be 18 years or older~~
+~~- Must have valid Social Security Number or ITIN~`
+~~- Have routing and account numbers for an open and valid checking account~~
+~~- Have a Credit or debit card~~
 13) Please change to "when the lease _is signed".
-14) Please remove "and closed Sunday".
-15) Please change to "Most lease agreements are for a maximum term of 12 months; however, you are
-welcome to contact Progressive Leasing and ask to take advantage of your 90-day Payment Option (3 Months in CA) or Early Buyout Option."
+14) ~~Please remove "and closed Sunday".~~
+15) ~~Please change to "Most lease agreements are for a maximum term of 12 months; however, you are welcome to contact Progressive Leasing and ask to take advantage of your 90-day Payment Option (3 Months in CA) or Early Buyout Option."~~
 16) ~~It is recommended that this statement be removed or changed to fit the store, EZ 2 Get Furniture.~~
 17) Please change to "90-day Payment Option (3 Months in CA)''.
 18) Please shorten to "Enjoy your furniture today".
