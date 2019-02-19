@@ -47,8 +47,7 @@ FAQ page: https://progleasing.com/frequently-asked-questions/
 ~~This page isn't for a Big Lots location.~~
 
 #### For 17, please see http://www.easy2getfurniture.com/
-17) "90 day Payment Option11 banner:
-We don't offer a 90-day Payment Option in CA.
+17) ~~"90 day Payment Option banner: We don't offer a 90-day Payment Option in CA.~~
 
 #### For 18-19, please see http://www.easy2getfurniture.com/Grey-with-Mirrored-Accents-Strips-ChestP
 5265.html as an example
@@ -66,9 +65,7 @@ method":
 It can't be implied that any approval/approval limit is guaranteed.
 
 #### For 21, please see https://www.yelp.com/biz photos/ez2get-furniture-los-angeles-2?select=nTEsu9n4rqsdbGKFw06TA
-21) "Online instant approval" image description:
-Progressive Leasing is the only purchase option available on the store's website to apply online. It can't
-be implied that we are a financing company or that approvals/approval limits are guaranteed.
+21) ~~"Online instant approval" image description: Progressive Leasing is the only purchase option available on the store's website to apply online. It can't be implied that we are a financing company or that approvals/approval limits are guaranteed.~~
 
 #### For 22, please see https://www.yelp.com/biz photos/ez2get-furniture-los-angeles-2?select=dwF3PioORFamG1spW eaEg
 22) ~~"90 Day Payment Option" on online image:
@@ -80,7 +77,7 @@ We don't offer a 90-day Payment Option in CA.
 we have interest and a down payment. When a specific initial payment amount is used, the initial
 payment disclosure is required.~~
 #### For 24, please see https://www.easy2getfurniture.com/Progressive/progressive.html
-24) "Progressive Financing" title of Easy 2 Get Leasing page: We aren't a financing company, and this isn't our name. 
+24) ~~"Progressive Financing" title of Easy 2 Get Leasing page: We aren't a financing company, and this isn't our name.~~
 ----
 #### To Resolve:
 1) ~~Please shorten this description to simply "Offered by Progressive Leasing".~~
@@ -103,14 +100,14 @@ payment disclosure is required.~~
 14) ~~Please remove "and closed Sunday".~~
 15) ~~Please change to "Most lease agreements are for a maximum term of 12 months; however, you are welcome to contact Progressive Leasing and ask to take advantage of your 90-day Payment Option (3 Months in CA) or Early Buyout Option."~~
 16) ~~It is recommended that this statement be removed or changed to fit the store, EZ 2 Get Furniture.~~
-17) Please change to "90-day Payment Option (3 Months in CA)''.
+17) ~~Please change to "90-day Payment Option (3 Months in CA)''.~~
 18) Please shorten to "Enjoy your furniture today".
 19) Please change to "Apply for Progressive Leasing here!" or similar.
 20) Please change to "Get an Instant Decision".
-21) Please remove "Online instant approval", so nothing in the post references Progressive Leasing.
-~~22) Please remove image or change the image description to clarify "90-day Payment Option (3 Months in CA)".~~
-~~23) Please remove this post.~~
-24) Please update the title of the page to "Progressive Leasing".
+21) ~~Please remove "Online instant approval", so nothing in the post references Progressive Leasing.~~
+22) ~~Please remove image or change the image description to clarify "90-day Payment Option (3 Months in CA)".~~
+23) ~~Please remove this post.~~
+24) ~~Please update the title of the page to "Progressive Leasing".~~
 
 ----
 
@@ -118,7 +115,7 @@ payment disclosure is required.~~
 
 - **Develop CSS** style sheets up to our high standards.
 - **Demystify website** terminology, HTML, CSS, etc.
-- **Showcase Brian** that using GitHub to ease his burden of programming everything sucks a fair bit less.
+- **Showcase Brian** that using GitHub to ease his burden of programming everything so it sucks a fair bit less.
 - Making it **EZ-er 2 Get** stuff done on a timely manner!
 
 
